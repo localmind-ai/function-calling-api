@@ -1,7 +1,7 @@
 # Open Source Function Calling API for LLMs
 ## Install
 ```
-git clone https://github.com/MeetKai/functionary && cd functionary
+git clone https://github.com/MeetKai/functionary && cd functionary && pip install -r requirements.txt
 ```
 ## Run
 ### OpenAI-compatible Function Calling API
